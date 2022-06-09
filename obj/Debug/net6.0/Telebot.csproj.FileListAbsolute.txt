@@ -1,0 +1,51 @@
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.exe
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.deps.json
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.runtimeconfig.json
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.dll
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\ref\Telebot.dll
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.pdb
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.GlobalUsings.g.cs
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.csproj.AssemblyReference.cache
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfoInputs.cache
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfo.cs
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.csproj.CoreCompileInputs.cache
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.dll
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\ref\Telebot.dll
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.pdb
+C:\Users\User\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.genruntimeconfig.cache
+C:\Users\User\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.exe
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.deps.json
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.runtimeconfig.json
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.dll
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\ref\Telebot.dll
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Telebot.pdb
+C:\Telegram bot boot camp\Telebot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.GlobalUsings.g.cs
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.csproj.AssemblyReference.cache
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfoInputs.cache
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfo.cs
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.csproj.CoreCompileInputs.cache
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.dll
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\ref\Telebot.dll
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.pdb
+C:\Telegram bot boot camp\Telebot\obj\Debug\net6.0\Telebot.genruntimeconfig.cache
+C:\Telebot\bin\Debug\net6.0\Telebot.exe
+C:\Telebot\bin\Debug\net6.0\Telebot.deps.json
+C:\Telebot\bin\Debug\net6.0\Telebot.runtimeconfig.json
+C:\Telebot\bin\Debug\net6.0\Telebot.dll
+C:\Telebot\bin\Debug\net6.0\Telebot.pdb
+C:\Telebot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Telebot\obj\Debug\net6.0\Telebot.csproj.AssemblyReference.cache
+C:\Telebot\obj\Debug\net6.0\Telebot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfoInputs.cache
+C:\Telebot\obj\Debug\net6.0\Telebot.AssemblyInfo.cs
+C:\Telebot\obj\Debug\net6.0\Telebot.csproj.CoreCompileInputs.cache
+C:\Telebot\obj\Debug\net6.0\Telebot.csproj.CopyComplete
+C:\Telebot\obj\Debug\net6.0\Telebot.dll
+C:\Telebot\obj\Debug\net6.0\refint\Telebot.dll
+C:\Telebot\obj\Debug\net6.0\Telebot.pdb
+C:\Telebot\obj\Debug\net6.0\Telebot.genruntimeconfig.cache
+C:\Telebot\obj\Debug\net6.0\ref\Telebot.dll

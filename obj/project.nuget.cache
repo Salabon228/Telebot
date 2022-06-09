@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uwsr1CpCC7NGz1F8sgVTS//27FfumxdkXo2DO1PUPFwMFEmV7j8XbDsf9FWS8iOUoOTEutJzTppfywy27QCFBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Telebot\\Telebot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
